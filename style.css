@@ -1,0 +1,30 @@
+.kkk {
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: line-through;
+}
+
+.lll {
+    font-style: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.lll>a {
+    display: inline-block;
+    border: 1px solid #fff;
+    font-size: 14px;
+    background-color: green;
+    color: #fff;
+    padding: 2px;
+    border-radius: 30%;
+}
+
+.jjj .h {
+    text-align: center;
+    display: block;
+}
+
+.ttt:first-child {
+    text-align: center;
+}
